@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of Sr Marmaduke Langdale concerning the relieving of the Lord Goring. The Lord of Loughborough. The Lord Capel. Sir Charles lucas, and the rest of the officers and souldiers now blocked up in the town of Colchester, by the Lord Generall Fairfax. And their further proceedings touching Major Generall Lambert; agreed upon by a Councel of War, and assented to by most of the colonels and officers in the Northern Army. Likewise the Lord Goring's letter to Sir Marmaduke Langdale, and his further resolution and proceedings thereupon.</title>
+            <author>Langdale, Marmaduke Langdale, Baron, 1598?-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88680</idno>
+            <idno type="STC">Wing L383</idno>
+            <idno type="STC">Thomason E448_21</idno>
+            <idno type="STC">ESTC R204986</idno>
+            <idno type="EEBO-CITATION">99864432</idno>
+            <idno type="PROQUEST">99864432</idno>
+            <idno type="VID">161841</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161841)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E448[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of Sr Marmaduke Langdale concerning the relieving of the Lord Goring. The Lord of Loughborough. The Lord Capel. Sir Charles lucas, and the rest of the officers and souldiers now blocked up in the town of Colchester, by the Lord Generall Fairfax. And their further proceedings touching Major Generall Lambert; agreed upon by a Councel of War, and assented to by most of the colonels and officers in the Northern Army. Likewise the Lord Goring's letter to Sir Marmaduke Langdale, and his further resolution and proceedings thereupon.</title>
+                  <author>Langdale, Marmaduke Langdale, Baron, 1598?-1661.</author>
+               </titleStmt>
+               <extent>[2], 1, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.N.</publisher>
+                  <pubPlace>London :</pubPlace>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Norwich, George Goring, --  Earl of, 1583?-1663 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161841:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>THE RESOLUTION OF S<hi rend="sup">r</hi> Marmaduke Langdale Concerning the relieving of
+<list>
+                  <item>The Lord <hi>Goring.</hi>
+                  </item>
+                  <item>The Lord of <hi>Loughborough.</hi>
+                  </item>
+                  <item>The Lord <hi>Capel.</hi>
+                  </item>
+                  <item>Sir <hi>Charles Lucas,</hi> and the reſt of the Officers and Soul<g ref="char:EOLhyphen"/>diers</item>
+               </list>
+NOW Blocked up in the Town of <hi>Colcheſter,</hi> by the Lord Generall <hi>FAIRFAX.</hi> And their further proceedings touching Major Generall <hi>Lambert;</hi> agreed upon by a Councel of War, and aſſented to by moſt of the Colonels and Officers in the Northern Army.</p>
+            <p>Likewiſe the Lord <hi>Goring's</hi> Letter to Sir <hi>Marmaduke Lang<g ref="char:EOLhyphen"/>dale,</hi> and his further Reſolution and proceedings thereupon.</p>
+            <p>LONDON, Printed for <hi>G.N.</hi> MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:161841:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb n="1" facs="tcp:161841:2"/>
+            <!-- PDF PAGE 26 -->
+            <head>THE RESOLVTION OF Sir <hi>Marmaduke Langdale,</hi> concerning the Lord Generals blocking up of the town of <hi>Colcheſter.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Honoured Sir,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">S</seg>Ir <hi>Marmaduke Langdale</hi> having received Letters from the Lord <hi>Goring,</hi> intima<g ref="char:EOLhyphen"/>ting their unfortunate ſucceſſe in their late. Engagement with the Kentiſh<g ref="char:EOLhyphen"/>men, and how they had croſt the River of Thames, thereby to carry on their Deſign with more ſafety, and pre<g ref="char:EOLhyphen"/>vent the ſudden falling on of the Lord General with b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ar<g ref="char:EOLhyphen"/>my, reſolved not to engage with his army againſt Major
+<pb facs="tcp:161841:3"/>
+                     <!-- PDF PAGE 27 -->Gen. <hi>Lambert,</hi> but to keep them in a compleat and intire Body, for their future preſervation, and preſent encreaſing; and thereupon ſummoned in moſt of his Colonels, Lieute<g ref="char:EOLhyphen"/>nant-colonels, Majors, and Captains, who preſently called a Councell of War, at which it was reſolved to retreat to<g ref="char:EOLhyphen"/>wards <hi>Carliſle,</hi> which they did accordingly, but in their Re<g ref="char:EOLhyphen"/>treat, ſome of their Rear-guard who lay plundering up and down the country, had quarters provided for them by a par<g ref="char:EOLhyphen"/>ty of Major Generall <hi>Lamberts</hi> Horſe, who fell upon them neer <hi>Braugham</hi> caſtle, and took divers priſoners, with great ſtore of good pillage which they had taken from divers wel affected of the country.</p>
+                  <p>Diviſions and diſtractions increaſe dayly in their army, eſpecially amongſt the Superiours and Officers, who have continuall diſputations upon ſeverall differences, ſome being deſirous to have a ſtrong party of Horſe and Dragoones ſent Southward for the relief of the Lord <hi>Goring</hi> and his ar<g ref="char:EOLhyphen"/>my; others declaring againſt i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, ſaying, <hi>That they had ra<g ref="char:EOLhyphen"/>ther keep one Body in a defenſive posture, then to hazard both,</hi> which indeed was the expreſſion of Sir <hi>Marmaduke</hi> him<g ref="char:EOLhyphen"/>ſelf, who ſtands much againſt the dividing of his Army, and will by no meanes aſſent to thoſe Propoſitions for the ſend<g ref="char:EOLhyphen"/>ing of a party into the South, but hath reſolved to oppoſe the proceedings thereof, and to keep his Army in the North, untill ſuch time that the additionall Forces from <hi>Scotland</hi> are joyned with him.</p>
+                  <p>Hee hath had ſeverall invitations (as we hear) from Sir <hi>Charles Lucas,</hi> to ſend Sir <hi>Philip Stapleton</hi> with a party of Horſe and Dragoons to their aſſiſtance, but would not aſſent thereto.</p>
+                  <p>As alſo, a Letter from the Lord <hi>Goring</hi> and Generall <hi>Ha<g ref="char:EOLhyphen"/>stings</hi> to the ſame effect: wherein they intimated their De<g ref="char:EOLhyphen"/>ſires to have ſome additionall Forces ſent downe unto them
+<pb facs="tcp:161841:3"/>
+                     <!-- PDF PAGE 27 -->for the better and more ſecure mannaging of the greatwork in hand, declaring <hi>That if it pleaſed God to give them victory in the South, they need not fear the day in the North;</hi> but all could not prevaile for he had fixed his reſolution to the contrary; <hi>and therefore called a Councell of</hi> War, <hi>to conſider what ſhould be done for their greateſt advantage and ſafety, &amp; after ſome diſputation thereupon, it was reſolved by the major part, that no Forces ſhould be ſent Southward, untill ſuch time that the additionall Forces were come in unto them from</hi> Scot<g ref="char:EOLhyphen"/>land, <hi>together with ſome Armes and Ammunition, but it is ho<g ref="char:EOLhyphen"/>ped that he will come ſhort of his expectation.</hi>
+                  </p>
+                  <p>
+                     <hi>VVe have ſeized on two Castles in the North, which was in the poſseſſion of</hi> Langdale <hi>and his party, we purſed him through the greateſt part of</hi> Weſtmerland, <hi>untill he came within</hi> 12. <hi>miles of</hi> Carliſle, <hi>where they received a strong Allarum, and barracado'd up their Gates.</hi>
+                  </p>
+                  <p>
+                     <hi>The Major Generall is now in</hi> Penreth, <hi>and his Army quar<g ref="char:EOLhyphen"/>tered in the towns adjacent, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nſisting of about</hi> 3000. <hi>Horſe and Foot. Col.</hi> Dodding, <hi>Col.</hi> Booth, <hi>and the rest of the Lanca<g ref="char:EOLhyphen"/>ſhire Forces are expected to joyn with us very ſuddenly, and I hope they will be here ſeaſonably.</hi>
+                  </p>
+                  <p>
+                     <hi>The happy tydings of reducing</hi> Kent, <hi>and the ill ſucceſse of</hi> Goring <hi>in</hi> Eſſex, <hi>hath quite broke the hearts of the Eneny here, who are fearfull that the Lord General will advance with a great ſtrength towards them, which cauſeth divers to diſsert the ſervice. Sir, I am</hi>
+                  </p>
+                  <closer>
+                     <signed>Your devoted Servant, M. Simcock.</signed>
+                     <dateline>From the Head-quarters neer Penreth, <date>16. Junij 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:161841:4"/>
+            <!-- PDF PAGE 28 -->
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>HIs Excellency the Lord Generall hath ſent a party round about on Suffolk ſide of the ci<g ref="char:EOLhyphen"/>ty, which have made good <hi>Merſey Iland, and taken ſome prize of the enemies, which was carrying away by water:</hi> We have alſo another party on the other ſide of the water, neer the Heath which is the har<g ref="char:EOLhyphen"/>bour, or Key, to which the ſhipping comes, and is not half musket ſhot over for at leaſt a mile from the town: there is at the Key two or three ſhips, which ly ſo low on the Water, that they cannot much annoy us. We have alſo made good the bridg on <hi>Norwich</hi> Road, and are drawing a line round a<g ref="char:EOLhyphen"/>bout the City, the Subu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bs being already in our poſſeſſion: thoſe which come out to us, do certain<g ref="char:EOLhyphen"/>ly affirm, that about ſixty of the enemy were buri<g ref="char:EOLhyphen"/>ed in St. <hi>Margarets</hi> Church yard that night which we fought with them, and many others elſewhere beſides thoſe they left behind them, which they got not again into the City. Sir <hi>William Campion</hi> (once Governour of <hi>Boſtol houſe for the King</hi>) is dead, and Major <hi>Eyes,</hi> whole loſſe they much la<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>Col. <hi>Baxters</hi> Reg. was far ingaged with the enemy, &amp; quit<g ref="char:EOLhyphen"/>ted themſelvs with great valour: we loſt in all a Major, and one or two captains, and ſome other officers, beſides comon ſoldiers: the L. <hi>Goring,</hi> the L. <hi>Loughorough,</hi> Sir <hi>Charles Lucas</hi>
+                     <pb facs="tcp:161841:4"/>
+                     <!-- PDF PAGE 28 -->&amp; ſeveral other eminent commanders are ſaid to be ſtill re<g ref="char:EOLhyphen"/>maining in the town: they have taken Mr. <hi>VVigmores</hi> Waggon horſes, and ſeverall others, and mounted men upon them; but ſince that night they have been very qu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et in the city, &amp; not offered to ſalley forth: thoſe within do intimate that they would have conditions, eſpecially the Horſe which are very deſirous to depart. A Trumpeter was ſent out of the towne with a meſſage to the Lord Generall, and his Excellency pi<g ref="char:EOLhyphen"/>ties the ſadcondition of many imminent and harmleſs ſouls in the city. The Lord Generall hath hereupon ſent Letters to the Parliament this morning, to acquaint them with the affairs here, and within a day or two I ſhall be able to com<g ref="char:EOLhyphen"/>municate more unto you, and the reſt of our friends, from hence, I remain</p>
+                  <closer>
+                     <signed>Your affectionate friend. <hi>T. N.</hi>
+                     </signed>
+                     <dateline>From the Headquarters neer <hi>Colcheſter</hi> 
+                        <date>
+                           <hi>June</hi> 19. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The L. Gen. ſent a Letter to the L. Goring, and others in the town in theſe words, viz.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>Sir, I underſtand you have in cuſtody Sir W. Maſham, a Parl. man and ſome other Gent. priſoners, I deſire you to permit this bearer, to ſee in what condition they are, what neceſſaries they want, that care may be taken for ſupplying of them, I have about 500 priſo<g ref="char:EOLhyphen"/>ners of yours, if you have any of my ſouldiers priſoners, I deſire to know the number and quality of them and ſhall ſend as many in exchange which ſhall be performd by me.</p>
+                  <closer>
+                     <signed>Tho; Fairfax,</signed>
+                     <dateline>
+                        <date>17. of June 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>To which anſwer was returned in theſe words,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>My Lord I deſire you will by the trumpeter ſend up a Liſt of all thoſe Gen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Officers, and ſouldiers of our party, and under our command, that are now priſoners in your Army, we ſhall upon the like occaſion, ſhew the ſame reſpect to you, and we deſire the Trumpeter may ſpeak with the beſt of quality of our priſoners to
+<pb facs="tcp:161841:5"/>
+                     <!-- PDF PAGE 29 -->let them know our endevvours for their enlargement wee have de<g ref="char:EOLhyphen"/>tayned your Trumpeter longer by reaſon of our hou?ely motion and action my Lord wee reſt.</p>
+                  <closer>
+                     <signed>Your ſervants
+<list>
+                           <item>Norwich.</item>
+                           <item>Arthur Capell.</item>
+                           <item>Loughborough.</item>
+                           <item>Charles Lucas.</item>
+                        </list>
+                     </signed>
+                     <dateline>
+                        <date>17. June 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>SInce my laſt here hath been ſome action: On Fryday night laſt a party of the Enemies Horſe made a ſalley out of the town, thinking to make an eſcape away, but being diſcovered by one of our Scouts, he preſently rode up to the Horſe-guard, and gave notice thereof to the Commander in chief, who immediatly mounted three Troops, and left two upon the guard to maintain that paſsage, and advanced towards the Enemy, who meeting with them, our Frontiers fired, and the reſt of the Body charged in amongſt them, and after a ſhort diſpute the Enemy retreated and in agreat diſorder made towards the town, but our men per<g ref="char:EOLhyphen"/>ſued them even to the very gates<g ref="char:punc">▪</g> doing ſome execution, and took divers priſoners, with very little loſse. Our men are very vigilant, and keeps proviſions from going to them, the towne is much ſtraightued thereof, which cauſeth a most dolefull &amp; hea<g ref="char:EOLhyphen"/>vie cry amongſt the Inhabitants.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Lexton <date>18. Junij 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
